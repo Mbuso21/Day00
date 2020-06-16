@@ -1,0 +1,5 @@
+c5r10s10% klist
+klist: krb5_cc_get_principal: No credentials cache file found
+c5r10s10% kdestroy
+kdestroy: krb5_cc_destroy: No credentials cache file found
+c5r10s10%
