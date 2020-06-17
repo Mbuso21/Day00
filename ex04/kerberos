@@ -1,0 +1,7 @@
+c5r10s10% kinit mmehloma@42.FR
+mmehloma@42.FR's password:
+kinit: krb5_get_init_creds: unable to reach any KDC in realm 42.FR, tried 0 KDCs
+
+I've entered the correct password which is Matteo12345$
+
+I would include a screenshot to prove that ive done the wright thing but we cant
